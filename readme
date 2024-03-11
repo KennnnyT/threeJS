@@ -1,0 +1,6 @@
+
+remplace dans le fichier scrip.js : '''loader.load('./ton_objet'  ''' par ton objet 
+puis fait : 
+npm install 
+npm run dev 
+;)
